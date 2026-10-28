@@ -1,0 +1,17 @@
+[theme]
+base = "light"
+primaryColor = "#2563eb"
+backgroundColor = "#f4f6fa"
+secondaryBackgroundColor = "#ffffff"
+textColor = "#0e1f3c"
+font = "sans serif"
+
+[server]
+# Maximum upload size (MB) for upload widgets that do not override it.
+# Dataset Lab uses this value for its CSV uploader (400 MB).
+# The batch-scoring uploader explicitly keeps its previous 200 MB limit.
+# Change this value and restart Streamlit to change the Dataset Lab limit.
+maxUploadSize = 400
+
+[browser]
+gatherUsageStats = false

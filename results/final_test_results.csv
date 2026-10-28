@@ -1,0 +1,2 @@
+Model,Precision,Recall,F1-score,Average Precision
+Random Forest — Final Test,0.9285714285714286,0.7323943661971831,0.8188976377952756,0.7899180752215633

@@ -1,0 +1,2 @@
+total_transactions,legitimate_transactions,fraudulent_transactions,fraud_percentage,missing_values,duplicate_rows
+284807,284315,492,0.1727,0,1081
